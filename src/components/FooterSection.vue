@@ -30,7 +30,7 @@ import { footerText } from "@/constants/index";
         </div>
       </div>
       <div class="footer__right">
-        © 2023 <a href="https://github.com/SeoeunCho/port2023-vite">SeoeunCho</a><br />
+        © 2023 <a href="https://github.com/SeoeunCho/port2023-vue">SeoeunCho</a><br />
         이 사이트는 뷰를 이용하여 제작하였습니다.
       </div>
     </div>
