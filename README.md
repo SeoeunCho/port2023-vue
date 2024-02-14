@@ -28,3 +28,4 @@ Vite, React, Vue.js, Next.js 4가지 버전의 사이트가 있습니다.
 - sass를 설치합니다. `npm install sass`
 - gsap를 설치합니다. `npm install gsap`
 - lenis를 설치합니다. `npm install @studio-freight/lenis`
+
